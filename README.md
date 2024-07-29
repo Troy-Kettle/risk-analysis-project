@@ -15,8 +15,8 @@ The data used in this project is sourced from an Excel file named `Test7.xlsx`. 
 
 1. **Data Loading and Preparation:**
    - Load the data from the Excel file using `pandas`.
-   - Separate the data into two sets: one for inspired oxygen and one for O2 saturation.
-   - Filter the data within specified ranges for inspired oxygen (0.5 to 15 L/min) and O2 saturation (50% to 100%).
+   - Separate the data into two sets: This can be any numerical data for this example duringt the code I used one for inspired oxygen and one for O2 saturation. 
+   - Filter the data within specified ranges for inspired oxygen (0.5 to 15 L/min) and O2 saturation (50% to 100%). These filtres are dependant on the data that you wish to use into the model.
 
 2. **Normalization:**
    - Normalize the `Modelled risk` values to be between 0 and 1 for both data sets.
