@@ -6,10 +6,11 @@ This project analyzes and visualizes the relationship between inspired oxygen le
 
 ## Data Source
 
-The data used in this project is sourced from an Excel file named `Test7.xlsx`. This file contains columns for:
+The data used in this project is sourced from an Excel file named `DATA.xlsx`. This file contains columns for:
 - `Inspired oxygen (L/min)`
 - `O2 sats (chronic resp)`
 - `Modelled risk`
+However the data in these columns can be any numeric data relating to risk.
 
 ## Steps in Analysis
 
