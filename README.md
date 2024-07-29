@@ -10,6 +10,7 @@ The data used in this project is sourced from an Excel file named `DATA.xlsx`. T
 - `Inspired oxygen (L/min)`
 - `O2 sats (chronic resp)`
 - `Modelled risk`
+
 However the data in these columns can be any numeric data relating to risk.
 
 ## Steps in Analysis
